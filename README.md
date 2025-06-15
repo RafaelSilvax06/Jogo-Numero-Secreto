@@ -11,4 +11,4 @@
 </div>
 
 <h2> 🔓 Acesso</h2>
-<p>Jogo hospedado na plataforma Vercel por esse link: https://jogo-woad-eta.vercel.app/</p>
+<p>Jogo hospedado na plataforma Vercel por esse link: https://jogo-numero-secreto-silk-ten.vercel.app/</p>
