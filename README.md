@@ -10,3 +10,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+<h2> 🔓 Acesso</h2>
+<p>Jogo hospedado na plataforma Vercel por esse link: https://jogo-woad-eta.vercel.app/</p>
